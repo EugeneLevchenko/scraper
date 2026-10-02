@@ -1,0 +1,48 @@
+{
+  "url": "https://us-store.msi.com/Motherboards/Intel-Platform-Motherboard/INTEL-Z890/MAG-Z890-TOMAHAWK-WIFI",
+  "item_id": "MAG-Z890-TOMAHAWK-WIFI",
+  "title": "MAG Z890 TOMAHAWK WIFI",
+  "brand": "MSI",
+  "product_category": "Motherboards > Intel Platform Motherboard > INTEL Z890",
+  "category_tree": [
+    {
+      "name": "Motherboards",
+      "url": "https://us-store.msi.com/Motherboards"
+    },
+    {
+      "name": "Intel Platform Motherboard",
+      "url": "https://us-store.msi.com/Motherboards/Intel-Platform-Motherboard"
+    },
+    {
+      "name": "INTEL Z890",
+      "url": "https://us-store.msi.com/Motherboards/Intel-Platform-Motherboard/INTEL-Z890"
+    }
+  ],
+  "description": "MAG Z890 TOMAHAWK WIFI is designed for gamers with a stable, durable and easy-to-build foundation for their PC builds.",
+  "price": 299.99,
+  "sale_price": null,
+  "availability": "in_stock",
+  "image_url": "https://us-store.msi.com/media/catalog/product/m/a/mag_z890_tomahawk_wifi_hero.png",
+  "additional_image_urls": [
+    "https://us-store.msi.com/media/catalog/product/m/a/mag_z890_tomahawk_wifi_box.png"
+  ],
+  "specs": [
+    {
+      "name": "Chipset",
+      "value": "Intel Z890"
+    },
+    {
+      "name": "CPU Socket",
+      "value": "LGA 1851"
+    },
+    {
+      "name": "Form Factor",
+      "value": "ATX"
+    }
+  ],
+  "star_rating": null,
+  "review_count": null,
+  "gtin": null,
+  "mpn": "MAG-Z890-TOMAHAWK-WIFI",
+  "scraped_at": "2026-10-02T10:00:00.000Z"
+}
